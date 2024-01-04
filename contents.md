@@ -51,3 +51,4 @@ SQL 수행은 프레임워크 관점에서는 굉장히 무거운 동작이기 �
 그림. 장고 admin 메인 페이지
 
 ## 1.2 DRF(Django REST Framework)는 무엇인가
+장고를 기반으로 백엔드 API를 개발할 수 있는 도구가 바로 django-REST-framework입니다.
